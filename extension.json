@@ -1,0 +1,20 @@
+{
+	"name": "WikibaseVE",
+	"version": "0.1",
+	"author": [
+		"Katie Filbert"
+	],
+	"url": "https://www.mediawiki.org/wiki/Extension:WikibaseVE",
+	"descriptionmsg": "wikibase-ve-desc",
+	"license-name": "MIT",
+	"type": "wikibase",
+	"MessagesDirs": {
+		"WikibaseVE": [
+			"i18n"
+		]
+	},
+	"VisualEditorPluginModules": [
+		"wikibase.ve.sisterprojects"
+	],
+	"manifest_version": 1
+}

@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": []
+    },
+    "wikibase-ve-desc": "Wikibase integration with Visual Editor",
+    "wikibase-ve-sisterprojects-dialog-action-cancel": "Cancel",
+	"wikibase-ve-sisterprojects-dialog-meta-section": "Sister project links",
+	"wikibase-ve-sisterprojects-dialog-title": "Sister project links",
+    "wikibase-ve-sisterprojects-dialog-toolbarbutton": "Sister project links"
+}
