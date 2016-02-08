@@ -11,7 +11,7 @@
 ve.ui.SisterProjectsPage = function VeUiSisterProjectsPage( name, config ) {
 	OO.ui.PageLayout.call( this, name, config );
 
-	this.$element.append( $( '<span>' ).text( 'sister projects!' ) );
+	this.$element.append( $( '#p-wikibase-otherprojects' ) );
 };
 
 /* Inheritance */
